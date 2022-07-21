@@ -1,0 +1,50 @@
+{
+    "1":
+    {
+        "id": "1",
+        "station_type": "Chevron",
+        "prices":{
+            "regular": 4.57,
+            "mid_grade": 4.99,
+            "premium": 5.21,
+            "diesel": 5.56
+        },
+        "location":{
+            "x": 62725,
+            "y": 28332
+        },
+        "last_seen": "2022-7-17 14:43:35.542195"
+    },
+    "2":
+    {
+        "id": "2",
+        "station_type": "Exxon",
+        "prices":{
+            "regular": 4.51,
+            "mid_grade": 4.96,
+            "premium": 5.22,
+            "diesel": 5.58
+        },
+        "location":{
+            "x": 62745,
+            "y": 28348
+        },
+        "last_seen": "2022-7-17 14:07:21.746297"
+    },
+    "3":
+    {
+        "id": "3",
+        "station_type": "Stripes",
+        "prices":{
+            "regular": 4.59,
+            "mid_grade": 4.34,
+            "premium": 5.29,
+            "diesel": 5.59
+        },
+        "location":{
+            "x": 62939,
+            "y": 28539
+        },
+        "last_seen": "2022-7-17 14:03:58.518399"
+    }
+}
